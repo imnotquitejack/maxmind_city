@@ -18,8 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-MaxmindCity.license_key = "YOUR_LICENSE_KEY"
-MaxmindCity.lookup "120.55.121.84"
+    MaxmindCity.license_key = "YOUR_LICENSE_KEY"
+    MaxmindCity.lookup "120.55.121.84"
 
 ## Contributing
 
